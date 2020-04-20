@@ -6,6 +6,9 @@ A robust non-fragile observer-based controller for linear time-invariant (LTI) s
 
 Keywords: Laser velocimetry, Lyapunov methods, Piezoelectric transducers, Robust control, Vibration control.
 
+
+refer to https://scholar.google.com/citations?user=-HRHoYoAAAAJ&hl=de
+
 References
 
 Dorato P (1998) Non-fragile controller design: and overview. In: Proceedings of the American control conference, Philadelphia, 26-26 June, pp. 2829-2831.
